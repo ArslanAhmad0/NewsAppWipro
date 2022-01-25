@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.arslan.newsapp_wipro">
+    package="com.arslan.gi">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
